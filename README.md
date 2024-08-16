@@ -1,5 +1,5 @@
 - 👋 Olá, boas vindas ao meu perfil!
--  Sou  @Regiscelis
+- 🌼 Sou  @Regiscelis
 - 👀 Esou interessado em aprender a criar e fazer projetos ...
 - 🌱 Atualmente estou aprendendo a criar e a fazer os projetos da Plataforma Alura ...
 - 💞️Estou procurando ajudar meus alunos a criar e a fazer projetos
