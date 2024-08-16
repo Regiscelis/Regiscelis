@@ -1,0 +1,13 @@
+- 👋 Olá, boas vindas ao meu perfil!
+-  Sou  @Regiscelis
+- 👀 Esou interessado em aprender a criar e fazer projetos ...
+- 🌱 Atualmente estou aprendendo a criar e a fazer os projetos da Plataforma Alura ...
+- 💞️Estou procurando ajudar meus alunos a criar e a fazer projetos
+- 📫 Como entrar em contato comigo E- mail: reginacp35@gmail.com ...
+- 😄 Pronouns: ... Regina
+- ⚡Fato engraçado: dificil mexer com programação kkk ...
+
+<!---
+Regiscelis/Regiscelis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
